@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ABC Kids Game</string>
+    <string name="title_learn">Learn ABC</string>
+    <string name="title_bubble_pop">Letter Pop</string>
+    <string name="title_match_game">Picture Match</string>
+    <string name="title_trace">Letter Tracing</string>
+    <string name="title_stickers">My Stickers</string>
+    <string name="score_stars">Stars</string>
+    <string name="btn_play">Play</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_previous">Prev</string>
+    <string name="btn_listen">Listen</string>
+</resources>
+

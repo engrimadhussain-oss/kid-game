@@ -1,0 +1,7 @@
+{
+  "name": "ABC Kids Game",
+  "description": "Interactive ABC alphabet learning game for kids featuring phonics voice audio, letter tracing, bubble pop, picture match, and reward stickers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
